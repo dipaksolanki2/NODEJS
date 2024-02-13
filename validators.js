@@ -22,7 +22,6 @@ const init = async () => {
         method: 'POST',
         path: '/users',
         handler: (request, h) => {
-            // Route handler logic
             return 'User created';
         },
         options: {

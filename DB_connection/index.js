@@ -10,7 +10,6 @@ dbConnect().then((res) => {
 });
 dbConnect()
 
-
 // const main = async () => {
 //     let data = await dbConnect();
 //     data = data.find().toArray()
